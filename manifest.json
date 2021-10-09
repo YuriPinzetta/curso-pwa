@@ -1,7 +1,7 @@
 {
   "name": "Mynotes",
   "short_name": "Notes",
-  "start_url": "index.html",
+  "start_url": "/curso-pwa/index.html",
   "display": "standalone",
   "background_color": "#607d8b",
   "orientation": "any",
@@ -42,6 +42,18 @@
       "src": "/img/icons/icon-192x192.png",
       "type": "image/png",
       "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/img/icons/icon-384x384.png",
+      "type": "image/png",
+      "sizes": "384x384",
+      "purpose": "any"
+    },
+    {
+      "src": "/img/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
       "purpose": "any"
     }
   ]
