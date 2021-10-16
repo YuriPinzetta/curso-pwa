@@ -56,5 +56,7 @@
       "sizes": "512x512",
       "purpose": "any"
     }
-  ]
+  ],
+  "gsm_sender_id": "10395300507",
+  "gsm_user_visible_only": true
 }
